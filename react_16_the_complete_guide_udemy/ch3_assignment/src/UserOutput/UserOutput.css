@@ -1,0 +1,13 @@
+p {
+    margin: 5px 10px;
+}
+
+.output-title {
+    font-size: 70%;
+    color: darkslategrey;
+    margin-bottom: 5px;
+}
+
+.output {
+    font-style: italic;
+}
